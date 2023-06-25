@@ -1,15 +1,8 @@
 package demo;
 
-//import static org.junit.Assert.*;
 import org.testng.annotations.*;
 import org.testng.Assert;
 import org.testng.junit.*;
-//import org.junit.jupiter.api.*;
-//import org.junit.After;
-//import org.junit.Assert;.....
-//import org.junit.Before;
-//import org.junit.Test;
-//import org.junit.jupiter.api.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -43,9 +36,9 @@ public class Login {
 	  
 		
 //		 Enter valid user_name and password to login.........
-			driver.findElement(By.id("username")).sendKeys("akshay");
+			driver.findElement(By.id("username")).sendKeys("akshay jain");
 			Thread.sleep(1000);
-			driver.findElement(By.id("password")).sendKeys("jain");
+			driver.findElement(By.id("password")).sendKeys("assignment");
 			Thread.sleep(1000);	
 			
 			// Remember me 
