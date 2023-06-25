@@ -1,4 +1,4 @@
-## selenium_automation
+# Selenium_automation
 
 App URL - https://sakshingp.github.io/assignment/login.html
 
