@@ -5,7 +5,7 @@
     <classes>
       <class name="demo.Login">
         <methods>
-          <include name="closeBrowser"/>
+          <include name="test_login_details"/>
         </methods>
       </class> <!-- demo.Login -->
     </classes>

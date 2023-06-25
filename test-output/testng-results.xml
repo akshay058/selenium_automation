@@ -2,36 +2,36 @@
 <testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-06-25T21:40:22 IST" name="Default suite" finished-at="2023-06-25T21:40:35 IST" duration-ms="12953">
+  <suite started-at="2023-06-25T22:04:11 IST" name="Default suite" finished-at="2023-06-25T22:04:24 IST" duration-ms="13096">
     <groups>
     </groups>
-    <test started-at="2023-06-25T21:40:22 IST" name="Default test" finished-at="2023-06-25T21:40:35 IST" duration-ms="12953">
+    <test started-at="2023-06-25T22:04:11 IST" name="Default test" finished-at="2023-06-25T22:04:24 IST" duration-ms="13096">
       <class name="demo.Login">
-        <test-method signature="setup()[pri:1, instance:demo.Login@74235045]" started-at="2023-06-25T21:40:22 IST" name="setup" finished-at="2023-06-25T21:40:26 IST" duration-ms="4080" status="PASS">
+        <test-method signature="setup()[pri:1, instance:demo.Login@74235045]" started-at="2023-06-25T22:04:11 IST" name="setup" finished-at="2023-06-25T22:04:15 IST" duration-ms="4038" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="test_title()[pri:2, instance:demo.Login@74235045]" started-at="2023-06-25T21:40:26 IST" name="test_title" finished-at="2023-06-25T21:40:26 IST" duration-ms="61" status="PASS">
+        <test-method signature="test_title()[pri:2, instance:demo.Login@74235045]" started-at="2023-06-25T22:04:15 IST" name="test_title" finished-at="2023-06-25T22:04:15 IST" duration-ms="28" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_title -->
-        <test-method signature="test_login_details()[pri:3, instance:demo.Login@74235045]" started-at="2023-06-25T21:40:26 IST" name="test_login_details" finished-at="2023-06-25T21:40:32 IST" duration-ms="6006" status="PASS">
+        <test-method signature="test_login_details()[pri:3, instance:demo.Login@74235045]" started-at="2023-06-25T22:04:15 IST" name="test_login_details" finished-at="2023-06-25T22:04:21 IST" duration-ms="6140" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_login_details -->
-        <test-method signature="test_url()[pri:4, instance:demo.Login@74235045]" started-at="2023-06-25T21:40:32 IST" name="test_url" finished-at="2023-06-25T21:40:32 IST" duration-ms="19" status="PASS">
+        <test-method signature="test_url()[pri:4, instance:demo.Login@74235045]" started-at="2023-06-25T22:04:21 IST" name="test_url" finished-at="2023-06-25T22:04:21 IST" duration-ms="23" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_url -->
-        <test-method signature="test_table_clickable()[pri:5, instance:demo.Login@74235045]" started-at="2023-06-25T21:40:32 IST" name="test_table_clickable" finished-at="2023-06-25T21:40:32 IST" duration-ms="84" status="PASS">
+        <test-method signature="test_table_clickable()[pri:5, instance:demo.Login@74235045]" started-at="2023-06-25T22:04:21 IST" name="test_table_clickable" finished-at="2023-06-25T22:04:21 IST" duration-ms="76" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_table_clickable -->
-        <test-method signature="test_sort()[pri:6, instance:demo.Login@74235045]" started-at="2023-06-25T21:40:32 IST" name="test_sort" finished-at="2023-06-25T21:40:34 IST" duration-ms="2193" status="PASS">
+        <test-method signature="test_sort()[pri:6, instance:demo.Login@74235045]" started-at="2023-06-25T22:04:21 IST" name="test_sort" finished-at="2023-06-25T22:04:23 IST" duration-ms="2158" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_sort -->
-        <test-method signature="closeBrowser()[pri:7, instance:demo.Login@74235045]" started-at="2023-06-25T21:40:34 IST" name="closeBrowser" finished-at="2023-06-25T21:40:35 IST" duration-ms="386" status="PASS">
+        <test-method signature="closeBrowser()[pri:7, instance:demo.Login@74235045]" started-at="2023-06-25T22:04:23 IST" name="closeBrowser" finished-at="2023-06-25T22:04:24 IST" duration-ms="511" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
